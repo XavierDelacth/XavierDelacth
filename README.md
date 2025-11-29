@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👩🏻‍💻 Henrique Delacth
+
+**`Backend Developer`**
+
+I am a fourth-year Computer Engineering student at ISPTEC (Luanda, Angola) with a strong passion for backend development.
+From 2018 to 2022, I studied Computer Science and completed a technical internship in the IT department at Alpega.
+I am particularly interested in building scalable, reliable, and efficient backend systems.
+Currently, I am developing my skills with Node.js, .NET, and Golang, while continuously improving my problem-solving and algorithmic thinking.
 
 <!--
 **XavierDelacth/XavierDelacth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
