@@ -2,10 +2,8 @@
 
 **`Backend Developer`**
 
-I am a fourth-year Computer Engineering student at ISPTEC (Luanda, Angola) with a strong passion for backend development.
-From 2018 to 2022, I studied Computer Science and completed a technical internship in the IT department at Alpega.
-I am particularly interested in building scalable, reliable, and efficient backend systems.
-Currently, I am developing my skills with Node.js, .NET, and Golang, while continuously improving my problem-solving and algorithmic thinking.
+I am a fourth-year Computer Engineering student at ISPTEC (Luanda, Angola) and have a great passion for backend development. From 2018 to 2022, I studied Computer Science and completed a technical internship in the IT department at Alpega (High School). I have a particular interest in building scalable, reliable, and efficient backend systems. I am currently developing my skills with Golang, .NET, and Node.js, while continuing to improve my problem-solving abilities and algorithmic thinking.
+
 
 <div style="display: inline_block"><br>
   
