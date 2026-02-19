@@ -2,7 +2,20 @@
 
 **`Backend Developer`**
 
-I am a fourth-year Computer Engineering student at ISPTEC (Luanda, Angola) and have a great passion for backend development. From 2018 to 2022, I studied Computer Science and completed a technical internship in the IT department at Alpega (High School). I have a particular interest in building scalable, reliable, and efficient backend systems. I am currently developing my skills with Golang, .NET, and Node.js, while continuing to improve my problem-solving abilities and algorithmic thinking.
+I'm a 4th-year Computer Engineering student passionate about building the backbone of the internet — scalable, reliable, and high-performance backend systems.
+
+My journey began with a strong foundation in **Java**, which I currently use to build robust and scalable REST APIs with **Spring Boot**. My immediate goal is to grow as a **Backend Developer**, contributing to impactful projects within a strong engineering team.
+
+Looking ahead, I'm deeply motivated by distributed systems and cloud infrastructure. My long-term ambition is to become a **Cloud Engineer**, mastering **AWS** and designing high-performance, concurrent services using **Golang**.
+
+I'm actively expanding my knowledge in:
+
+- 🐳 Docker  
+- ☁️ AWS    
+- 🔁 Distributed Systems  
+- 🚀 Cloud-native architecture  
+
+I’m driven by continuous learning, clean architecture principles, and building systems that scale.
 
 
 <div style="display: inline_block"><br>
